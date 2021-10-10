@@ -1,2 +1,5 @@
 # Data-Visualization-and-Communication-in-R
-A repository of course published on Al-Nafi
+### Instructor: Sana Rasheed
+Data Visualization and Communication in R course offered by Al-Nafi.
+
+Following Repository contains practise exercises for students in .ipynb and R .md formats.
